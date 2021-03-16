@@ -32,5 +32,5 @@ jobs:
       with:
         app-name: 'test-node12'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_21d19641af9e4827ac23ae40a91cdc03 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_39790b339be648b8b4808695738842dc }}
         package: .
